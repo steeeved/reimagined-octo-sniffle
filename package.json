@@ -44,5 +44,10 @@
   },
   "devDependencies": {
     "@types/react": "^18.0.20"
+  },
+  "browser": {
+    "fs": false,
+    "path": false,
+    "os": false
   }
 }
