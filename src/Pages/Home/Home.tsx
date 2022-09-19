@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import video from './rain.mp4';
 import Styles from './Home.module.scss';
 
@@ -43,3 +44,12 @@ export const Home = () => {
 };
 
 export default Home;
+=======
+import React from 'react'
+
+export const Home = () => {
+  return (
+    <div>Home</div>
+  )
+}
+>>>>>>> 4e740f7cbe73b53387c4523bbeb6f4328b45e996
